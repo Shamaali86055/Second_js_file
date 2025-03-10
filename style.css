@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("/pic2.jpg");
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1rsZQcV4EyE--wVx9HzKlfr9thJEhHsTIg&usqp=CAU");
   background-size: cover;
 }
 h1 {
